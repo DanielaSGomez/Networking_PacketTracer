@@ -1,4 +1,3 @@
 # Networking_PacketTracer
-PacketTRacer Projects
-
+Packet Tracer Projects
 Repository To stack Networking and Study cases
